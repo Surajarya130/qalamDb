@@ -1,0 +1,20 @@
+@media screen and (max-width: 1024px) {
+    #layoutSidenav{
+        display: block;
+    }
+    /* #layoutSidenav #layoutSidenav_content{
+        margin-left: -198px;
+        margin-right: 0px;
+        margin-top: 0px;
+        
+    } */
+    .sb-topnav.navbar-dark #sidebarToggle{
+        display: block;
+    }
+    /* .sb-nav-fixed #layoutSidenav #layoutSidenav_content {
+        padding-left: 225px;
+    } */
+    .showSidebar #layoutSidenav #layoutSidenav_nav{
+        transform: none;
+    }
+  }
