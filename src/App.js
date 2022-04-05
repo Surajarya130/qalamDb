@@ -1,4 +1,4 @@
-import Layout from "./Layout/layout";
+import Layout from "./layout/layout";
 import "../node_modules/react-draft-wysiwyg/dist/react-draft-wysiwyg.css";
 import Login from "./pages/Login";
 
